@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` test on rendering  input HomePage by sending dummyprop  1`] = `
+<div
+  className="wrapper"
+>
+  <div
+    className="form"
+  >
+    <input
+      autoComplete="off"
+      name="name"
+      onChange={[Function]}
+      type="text"
+      value="varun"
+    />
+    <select
+      id="category"
+      name="category"
+      onChange={[Function]}
+    >
+      <option
+        value="male"
+      >
+        male
+      </option>
+      <option
+        value="female"
+      >
+        female
+      </option>
+      <option
+        value="others"
+      >
+        others
+      </option>
+    </select>
+    <select
+      id="languages"
+      name="languages"
+      onChange={[Function]}
+      value="english"
+    >
+      <option
+        value="english"
+      >
+        english
+      </option>
+      <option
+        value="kannada"
+      >
+        kannada
+      </option>
+      <option
+        value="hindi"
+      >
+        hindi
+      </option>
+    </select>
+    <button
+      className="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-sghohy-MuiButtonBase-root-MuiButton-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      start
+    </button>
+  </div>
+</div>
+`;
